@@ -49,7 +49,7 @@ namespace Caso1Pilas
 
                     case 4:
                         if(acciones.Count == 0)                        
-                            Console.WriteLine("No hay acciones en el historial");                   
+                            Console.WriteLine("\nNo hay acciones en el historial");                   
                         else
                         {                        
                             Console.WriteLine("\nHistorial de acciones:");
@@ -63,4 +63,5 @@ namespace Caso1Pilas
         }
     }
 }
+
 
