@@ -1,0 +1,7 @@
+C:\Users\bruno\source\repos\Caso1Pilas\Caso1Pilas\bin\Debug\Caso1Pilas.exe.config
+C:\Users\bruno\source\repos\Caso1Pilas\Caso1Pilas\bin\Debug\Caso1Pilas.exe
+C:\Users\bruno\source\repos\Caso1Pilas\Caso1Pilas\bin\Debug\Caso1Pilas.pdb
+C:\Users\bruno\source\repos\Caso1Pilas\Caso1Pilas\obj\Debug\Caso1Pilas.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\Caso1Pilas\Caso1Pilas\obj\Debug\Caso1Pilas.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Caso1Pilas\Caso1Pilas\obj\Debug\Caso1Pilas.exe
+C:\Users\bruno\source\repos\Caso1Pilas\Caso1Pilas\obj\Debug\Caso1Pilas.pdb
