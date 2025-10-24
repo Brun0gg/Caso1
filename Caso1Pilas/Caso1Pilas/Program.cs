@@ -48,9 +48,14 @@ namespace Caso1Pilas
                         break;
 
                     case 4:
-                        Console.WriteLine("\nHistorial de acciones:");
-                        foreach (var a in acciones)
+                        if(acciones.Count == 0)                        
+                            Console.WriteLine("No hay acciones en el historial");                   
+                        else
+                        {                        
+                            Console.WriteLine("\nHistorial de acciones:");
+                            foreach (var a in acciones)
                             Console.WriteLine($"- {a}");
+                        }
                         break;
                 }
 
@@ -58,3 +63,4 @@ namespace Caso1Pilas
         }
     }
 }
+
